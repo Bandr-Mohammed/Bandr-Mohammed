@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Bandr Mohammed 👋
 
-<!--
-**Bandr-Mohammed/Bandr-Mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student working on network configuration, security hardening, and incident response, with a Java background for tooling and automation.
 
-Here are some ideas to get you started:
+## What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Applying security principles to network design and configuration
+- 🚨 Incident response, investigating (forensics), containing, and documenting security events
+- ☕ Building tools and scripts in Java to support security workflows
+- 📚 Currently deepening my understanding of threat detection 
+
+## Skills
+
+`Network Security` `Network Configuration` `Incident Response` `Java` `BurpSuite`
+
+## Let's connect
+
+- 📫 mohabndr@gmail.com
