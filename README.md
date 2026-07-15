@@ -1,6 +1,6 @@
 # Hi, I'm Bandr Mohammed 👋
 
-Cybersecurity student working on network configuration, security hardening, and incident response, with a Java background for tooling and automation.
+Cybersecurity student focusing on network configuration and security, as well as incident response, with a Java background for tooling and automation.
 
 ## What I'm into
 
